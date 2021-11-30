@@ -7,9 +7,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | 1     | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/two-sum/two-sum.java">Two Sum</a>                              | Java         | Easy           |
 | 14    | <a href="https://github.com/migodi15/LeetCode-Problems/tree/main/longest-common-prefix/longest-common-prefix.java">Longest Common Prefix</a>                | Java         | Easy           |
 | 26    | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java">Remove Duplicates from Sorted Array</a>  | Java         | Easy           |
-| 36    | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/valid-sudoku/valid-sudoku.java">Valid Sudoku</a>                             | Java         | Easy           |
+| 36    | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/valid-sudoku/valid-sudoku.java">Valid Sudoku</a>                             | Java         | Medium         |
 | 66    | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/plus-one/plus-one.java">Plus One</a>                             | Java         | Easy           |
-| 122   | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.java">Best Time to Buy and Sell Stock II</a>                     | Java         | Easy           |
+| 122   | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.java">Best Time to Buy and Sell Stock II</a>                     | Java         | Medium         |
 | 125   | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/valid-palindrome/valid-palindrome.java">Valid Palindrome</a>                     | Java         | Easy           |
 | 136   | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/single-number/single-number.java">Single NumberEasy</a>                    | Java         | Easy           |
 | 189   | <a href="https://github.com/migodi15/LeetCode-Problems/tree/main/rotate-array/rotate-array.java">Rotate Array</a>                        | Java         | Medium         |
