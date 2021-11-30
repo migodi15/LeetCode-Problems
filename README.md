@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | *#* | *Title*                           | *Solution* | *Difficulty* |
 |-------|-------------------------------------|--------------|----------------|
 | 1   | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/two-sum/two-sum.java">Two Sum</a> | Java | Easy |
+| 13  | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/roman-to-integer/roman-to-integer.java">Roman to Integer</a> | Java | Easy |
 | 14  | <a href="https://github.com/migodi15/LeetCode-Problems/tree/main/longest-common-prefix/longest-common-prefix.java">Longest Common Prefix</a> | Java | Easy |
 | 26  | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java">Remove Duplicates from Sorted Array</a> | Java | Easy |
 | 36  | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/valid-sudoku/valid-sudoku.java">Valid Sudoku</a> | Java | Medium |
