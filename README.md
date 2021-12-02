@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | 217 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/contains-duplicate/contains-duplicate.java">Contains Duplicate</a>  | Java | Easy |
 | 242 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/valid-anagram/valid-anagram.java">Valid Anagram</a> | Java | Easy |
 | 283 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/move-zeroes/move-zeroes.java">Move Zeroes</a> | Java | Easy |
+| 344 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/reverse-string/power-of-three.java">Power of Three</a> | Java | Easy |
 | 344 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/reverse-string/reverse-string.java">Reverse String</a> | Java | Easy |
 | 350 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java">Intersection of Two Arrays II</a> | Java  | Easy |
 | 387 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/first-unique-character-in-a-string/first-unique-character-in-a-string.java">First Unique Character in a String</a> | Java | Easy |
