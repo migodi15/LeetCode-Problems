@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | 7   | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/reverse-integer/reverse-integer.java">Reverse Integer</a> | Java | Medium |
 | 13  | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/roman-to-integer/roman-to-integer.java">Roman to Integer</a> | Java | Easy |
 | 14  | <a href="https://github.com/migodi15/LeetCode-Problems/tree/main/longest-common-prefix/longest-common-prefix.java">Longest Common Prefix</a> | Java | Easy |
+| 20  | <a href="https://github.com/migodi15/LeetCode-Problems/tree/main/valid-parentheses">Valid Parentheses</a> | Java | Easy |
 | 26  | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java">Remove Duplicates from Sorted Array</a> | Java | Easy |
 | 36  | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/valid-sudoku/valid-sudoku.java">Valid Sudoku</a> | Java | Medium |
 | 66  | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/plus-one/plus-one.java">Plus One</a> | Java | Easy |
@@ -22,4 +23,3 @@ Collection of LeetCode questions to ace the coding interview! - Created using Le
 | 344 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/reverse-string/reverse-string.java">Reverse String</a> | Java | Easy |
 | 350 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java">Intersection of Two Arrays II</a> | Java  | Easy |
 | 387 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/first-unique-character-in-a-string/first-unique-character-in-a-string.java">First Unique Character in a String</a> | Java | Easy |
-|     | <a href="https://github.com/migodi15/LeetCode-Problems/tree/main/valid-parentheses">Valid Parentheses</a> | Java | Easy |
