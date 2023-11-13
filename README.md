@@ -18,5 +18,5 @@
 | String | 387 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/first-unique-character-in-a-string/first-unique-character-in-a-string.java">First Unique Character in a String</a> | Java | Easy |
 | Math   | 13  | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/roman-to-integer/roman-to-integer.java">Roman to Integer</a> | Java | Easy |
 | Math   | 326 | <a href="https://github.com/migodi15/LeetCode-Problems/blob/main/power-of-three/power-of-three.java">Power of Three</a> | Java | Easy |
-| Dynamic Progamming | 66  | <a href="">Climbing stairs</a> | Java | Easy |
+| Dynamic Progamming | 66  | <a href="https://github.com/migodi15/LeetCode-Problems/tree/main/climbing-stairs">Climbing stairs</a> | Java | Easy |
 | Others | 20  | <a href="https://github.com/migodi15/LeetCode-Problems/tree/main/valid-parentheses">Valid Parentheses</a> | Java | Easy |
